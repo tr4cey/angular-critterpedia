@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Anchovy",
+        "nhYear": ["January","February","March","April","May","June","July","August","September","October","November","December"],
+        "shYear": ["January","February","March","April","May","June","July","August","September","October","November","December"],
+        "timeDay":"",
+        "location": "Ocean",
+        "shadow": "small",
+        "price": 200
+    },
+    {
+        "name": "Angelfish",
+        "nhYear": ["May","June","July","August","September","October"],
+        "shYear": ["November","December","January","February","March","April"],
+        "timeDay": ["4am","5am","6am","7am","8am","9am","10am","11am","12pm","1pm","2pm","3pm","4pm","5pm","6pm","7pm","8pm","9pm"],
+        "location": "River",
+        "shadow": "small",
+        "price": 3000
+    }
+]
